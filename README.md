@@ -2,11 +2,11 @@
 
 ## Expected behaviour
 
-If running the vue app locally using `vue-cli-service serve` works, building the project using `vue-cli-service build` and running from a webserver should also work.
+If running a vue app locally using `vue-cli-service serve` works, building it using `vue-cli-service build` and running from a webserver should also work.
 
 ## Actual behaviour
 
-- Running the vue app locally using `vue-cli-service serve` works.
+- Running this vue app locally using `vue-cli-service serve` works.
 - Building the project using `vue-cli-service build` and running from a webserver **doesn't work**. Instead, it fails with a console error:
 
 ```
