@@ -7,6 +7,9 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import * as Nimiq from '@nimiq/core-web'
+
+console.log(Nimiq)
 
 export default {
   name: 'app',
